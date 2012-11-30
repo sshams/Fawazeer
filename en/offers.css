@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+#inner #left {
+	float: left;
+	width: 423px;
+	background:url(/en/images/left_bg.jpg);
+	background-repeat:no-repeat;
+	background-position: top right;	
+}
+#inner #left #left_01 {
+	float: left;
+	height: 238px;
+	width: 423px;
+}
+#inner #left #left_02 {
+	float: left;
+	width: 423px;
+}
+#inner #right {
+	float: left;
+	width: 498px;
+}
+#inner #right #what_copy {
+	float: left;
+	padding-right: 90px;
+	margin-left: 5px;
+}
+#right #right_form {
+	clear: left;
+	float: left;
+}
+ul.offers li {
+	background-image: url(../images/bullet.gif);
+	background-repeat: no-repeat;
+	padding-left: 20px;
+	list-style-type: none;
+	margin-bottom: 3px;
+}

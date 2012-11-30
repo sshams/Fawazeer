@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+#inner #left {
+	float: left;
+	width: 457px;
+	padding-left: 40px;
+	background:url(/en/images/left_bg.jpg);
+	background-repeat:no-repeat;
+	background-position: top right;
+}
+#inner #right {
+	float: left;
+	width: 423px;
+}
+#inner #left #competition_title {
+	float: left;
+	height: 44px;
+	width: 457px;
+	margin-top: 58px;
+}
+#inner #left #competition_copy {
+	float: left;
+	width: 412px;
+	margin-left: 10px;
+}
+#inner #left #the_rules {
+	float: left;
+	height: 32px;
+	width: 120px;
+	margin-top: 20px;
+}
+#inner #left #rules_copy {
+	float: left;
+	width: 415px;
+	margin-left: 10px;
+}
+#inner #right #right_01 {
+	float: left;
+	height: 177px;
+	width: 423px;
+}
+#inner #right #right_02 {
+	float: left;
+	height: 213px;
+	width: 423px;
+}

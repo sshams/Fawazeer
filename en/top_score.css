@@ -1,0 +1,82 @@
+#inner #left {
+	float: left;
+	width: 555px;
+	background:url(/en/images/left_bg.jpg);
+	background-repeat:no-repeat;
+	background-position: top right;	
+}
+#inner #left #scores {
+	float: left;
+	width: 555px;
+	margin-top: 59px;
+}
+#inner #left #scores #top_score {
+	float: left;
+	height: 56px;
+	width: 247px;
+	display: block;
+}
+#inner #left #scores #scores_box {
+	float: left;
+	width: 516px;
+	margin-left: 39px;
+}
+#inner #left #scores #scores_box #score_top {
+	float: left;
+	height: 20px;
+	width: 516px;
+}
+#inner #left #scores #scores_box #list_left {
+	float: left;
+	height: 281px;
+	width: 16px;
+}
+#inner #left #scores_box #list_body {
+	float: left;
+	height: 281px;
+	width: 454px;
+	background-color: #fbfbfb;
+}
+#inner #left #scores #scores_box #list_right {
+	float: left;
+	height: 281px;
+	width: 46px;
+}
+#inner #left #scores #scores_box #list_bottom {
+	float: left;
+	height: 9px;
+	width: 516px;
+}
+#inner #left #scores #pagination {
+	float: left;
+	height: 35px;
+	width: 454px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+#inner #left #scores #pagination a {
+	font-family: Verdana, Geneva, sans-serif;
+	text-decoration:none;
+	color: #707176;
+	margin: 0px 2px;
+}
+#inner #left #scores #list_box {
+	float: left;
+	height: 45px;
+	width: 52px;
+}
+#inner #right {
+	float: left;
+	height: 235px;
+	width: 366px;
+}
+#inner #right #top_01 {
+	float: left;
+	height: 236px;
+	width: 366px;
+}
+#inner #right #top_02 {
+	float: left;
+	height: 235px;
+	width: 366px;
+}

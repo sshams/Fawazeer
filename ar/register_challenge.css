@@ -1,0 +1,35 @@
+@charset "utf-8";
+#inner #left {
+	float: left;
+	width: 590px;
+	text-align:right;
+	padding-top: 60px;
+}
+#inner #left a{
+	color: #707176;
+	font-family:Verdana, Geneva, sans-serif;
+	size:10px;
+}
+#inner #left #left_form {
+	margin-left: 10px;
+	direction:rtl;
+}
+#inner #right {
+	float: left;
+	width: 330px;
+}
+#inner #right #right_01 {
+	float: left;
+	height: 228px;
+	width: 330px;
+}
+#inner #right #right_02 {
+	float: left;
+	height: 227px;
+	width: 330px;
+}
+#form2 input, #form2 select {
+	font-family:Tahoma, Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #707176;
+}

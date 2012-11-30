@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+#inner #left {
+	float: left;
+	width: 388px;
+	padding-top: 50px;
+	background:url(/ar/images/left_bg.jpg);
+	background-repeat:no-repeat;
+	background-position: top right;		
+}
+#inner #left #scoreboard #title {
+	float: left;
+	width: 296px;
+	margin-left: 37px;
+	margin-right: 55px;
+	text-align:right;
+}
+#inner #right {
+	float: left;
+	width: 533px;
+}
+#inner #right input {
+	width: auto;
+	color: #acbfc7;
+}
+#right #copy #buttons {
+	float: left;
+	width: 467px;
+	margin-top: 20px;
+}
+#inner #right #previous {
+	float: right;
+	margin-top: 25px;
+	margin-right: 120px;
+}
+#inner #right #previous #title {
+	float: right;
+	height: 36px;
+}
+#inner #right #previous #text {
+	clear: right;
+	float: right;
+	margin-bottom: 25px;
+	direction:rtl;
+}
+#inner #right #copy {
+	margin-right: 120px;
+	direction:rtl;
+}
+#inner #right #copy a {
+	font-family: tahoma, Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	color: #707176;
+	font-weight: bold;
+}
+#inner #right #copy #hint {
+	float: left;
+	width: 466px;
+	margin-top:20px;
+	display: none;
+}
+.wrong {
+	background-color: #f4ead2;
+}
+.false {
+	/* for false options */
+}
+.unknown{
+	/* for unknown options */
+}

@@ -1,0 +1,121 @@
+@charset "utf-8";
+#inner #left {
+	float: left;
+	width: 457px;
+	height: 354px;
+	padding-left: 40px;
+	background-image:url(/ar/images/day_bg_winners.jpg);
+	background-repeat:no-repeat;
+	background-position: 41px 281px;
+	/* it was 281 */
+}
+#inner #left #left_bg {
+	height: 18px;
+	background:url(/ar/images/left_bg.jpg);
+	background-repeat:no-repeat;
+	background-position: top right;
+}
+#inner #left #chevrolet_fawazeer{
+	float: right;
+	height: 63px;
+	width: 307px;
+}
+#inner #left #fawazeer_copy {
+	float: right;
+	text-align:right;
+	width: 440px;
+	padding-left: 10px;
+}
+#inner #left #how {
+	float: right;
+	height: 22px;
+	width: 94px;
+}
+#inner #left #fazzoura_day {
+	float: right;
+	clear: both;
+	height: 65px;
+	width: 307px;
+}
+#inner #left #fazozoura_day_copy {
+	float: right;
+	text-align:right;
+	width: 440px;
+
+}
+#inner #left #answer {
+	float: right;
+	height: 22px;
+	width: 102px;
+}
+#inner #right {
+	float: left;
+	width: 423px;
+}
+#inner #right #traverse {
+	float: left;
+	height: 354px;
+	width: 423px;
+}
+#inner #right #traverse #traverse_01 {
+	float: left;
+	height: 177px;
+	width: 423px;
+}
+#inner #right #traverse #traverse_02 {
+	float: left;
+	height: 177px;
+	width: 423px;
+}
+#feature {
+	margin-left: 41px;
+}
+#feature #feature_01 {
+	float: left;
+	height: 160px;
+	width: 275px;
+}
+#feature_01 #score_data {
+	float: right;
+	/*height: 114px;*/
+	width: 275px;
+}
+#feature #feature_02 {
+	float: left;
+	height: 160px;
+	width: 282px;
+}
+#feature_02 #offer {
+	float: right;
+	height: 65px;
+	width: 282px;
+}
+#feature_02 #feature_02_copy {
+	float: left;
+	text-align:right;
+	height: 95px;
+	width: 260px;
+	margin-right: 10px;
+}
+#feature #feature_03 {
+	float: left;
+	height: 160px;
+	width: 275px;
+}
+#feature_03 #score_title {
+	float: right;
+	height: 70px;
+	width: 324px;
+}
+#feature_03 #fazzoura {
+	float: right;
+	height: 60px;
+	width: 275px;
+}
+#feature_03 #feature_03_copy {
+	float: right;
+	text-align:right;
+	height: 81px;
+	width: 240px;
+	margin-right: 15px;
+}

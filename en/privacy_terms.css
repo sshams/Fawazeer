@@ -1,0 +1,38 @@
+@charset "utf-8";
+p {
+	margin-bottom: 25px;
+}
+.text {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 11px;
+	color: #707176;
+}
+#container {
+	width: 516px;
+	margin: auto auto;
+}
+#container #title {
+	float: left;
+	height: 40px;
+	width: 214px;
+	display: block;
+}
+#container #header_02 {
+	float: left;
+	height: 40px;
+	width: 302px;
+}
+#container #copy {
+	float: left;
+	width: 441px;
+	margin-left: 3px;
+	padding-top: 15px;
+	padding-left: 35px;
+	padding-right: 35px;
+	background-color:#c3d2d9;
+}
+a {
+	color: #707176;
+	font-family:Verdana, Geneva, sans-serif;
+	size:10px;
+}

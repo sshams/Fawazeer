@@ -1,0 +1,118 @@
+@charset "utf-8";
+#inner #left {
+	float: left;
+	width: 457px;
+	height: 354px;
+	padding-left: 40px;
+	background-image:url(/ar/images/day_bg.jpg);
+	background-repeat:no-repeat;
+	background-position: 41px 281px;
+}
+#inner #left #left_bg {
+	height: 18px;
+	background:url(/en/images/left_bg.jpg);
+	background-repeat:no-repeat;
+	background-position: top right;
+}
+#inner #left #chevrolet_fawazeer{
+	float: left;
+	height: 63px;
+	width: 307px;
+}
+#inner #left #fawazeer_copy {
+	float: left;
+	width: 445px;
+	padding-left: 10px;
+}
+#inner #left #how {
+	float: left;
+	height: 22px;
+	width: 103px;
+}
+#inner #left #fazzoura_day {
+	float: left;
+	height: 65px;
+	width: 457px;
+}
+#inner #left #fazozour_day_copy {
+	float: left;
+	width: 440px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#inner #left #answer {
+	float: left;
+	height: 22px;
+	width: 102px;
+}
+#inner #right {
+	float: left;
+	width: 423px;
+}
+#inner #right #traverse {
+	float: left;
+	height: 354px;
+	width: 423px;
+}
+#inner #right #traverse #traverse_01 {
+	float: left;
+	height: 177px;
+	width: 423px;
+}
+#inner #right #traverse #traverse_02 {
+	float: left;
+	height: 177px;
+	width: 423px;
+}
+#feature {
+	margin-left: 41px;
+}
+#feature #feature_01 {
+	float: left;
+	height: 160px;
+	width: 275px;
+}
+#feature #feature_02 {
+	float: left;
+	height: 160px;
+	width: 282px;
+}
+#feature #feature_03 {
+	float: left;
+	height: 160px;
+	width: 323px;
+}
+#feature_01 #score_title {
+	float: left;
+	height: 46px;
+	width: 275px;
+}
+#feature_02 #offer {
+	float: left;
+	height: 65px;
+	width: 282px;
+}
+#feature_03 #fazzoura {
+	float: left;
+	height: 79px;
+	width: 323px;
+}
+#feature_02 #feature_02_copy {
+	float: left;
+	height: 95px;
+	width: 256px;
+	margin-left: 15px;
+}
+
+#feature_01 #score_data {
+	float: left;
+	height: 114px;
+	width: 275px;
+}
+#feature_03 #feature_03_copy {
+	float: left;
+	height: 81px;
+	width: 240px;
+	margin-left: 15px;
+}
